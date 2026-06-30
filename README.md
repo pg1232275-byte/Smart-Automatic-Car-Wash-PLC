@@ -304,25 +304,26 @@ Verified scenarios:
 
 ## PLC Tags
 
-`Images/tags.png`
+`tags.png`
 
 ---
 
 ## Watch Table
 
-`Images/watch_table.png`
+`watch_table.png`
+'watch_table_02.png'
 
 ---
 
 ## Ladder Logic
 
-`Images/logic_ladder_01.png`
+`logic_ladder_01.png`
 
-`Images/logic_ladder_02.png`
+`logic_ladder_02.png`
 
-`Images/logic_ladder_03.png`
+`logic_ladder_03.png`
 
-`Images/logic_ladder_04.png`
+`logic_ladder_04.png`
 
 ---
 
