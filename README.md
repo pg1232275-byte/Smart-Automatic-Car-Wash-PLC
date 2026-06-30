@@ -304,26 +304,26 @@ Verified scenarios:
 
 ## PLC Tags
 
-`tags.png`
+`tables and results/tags.png`
 
 ---
 
 ## Watch Table
 
-`watch_table.png`
-'watch_table_02.png'
+`tables and results/watch_table.png`
+`tables and results/watch_table_2.png`
 
 ---
 
 ## Ladder Logic
 
-`logic_ladder_01.png`
+`documents_for_car_wash_plc/logic_ladder_01.png`
 
-`logic_ladder_02.png`
+`documents_for_car_wash_plc/logic_ladder_02.png`
 
-`logic_ladder_03.png`
+`documents_for_car_wash_plc/logic_ladder_03.png`
 
-`logic_ladder_04.png`
+`documents_for_car_wash_plc/logic_ladder_04.png`
 
 ---
 
